@@ -2,7 +2,7 @@
 lien du site :
 https://yannhalgatte.github.io/
 Réalisé par :
-Ange-René Goua
-Nicolas Frappa
-Margot Rasamy
+Ange-René Goua/
+Nicolas Frappa/
+Margot Rasamy/
 Yann Petit-Halgatte
